@@ -1,5 +1,3 @@
-![micro-jest](https://github.com/niklauslee/micro-jest/blob/main/images/logo.png?raw=true)
-
 # Overview
 
 **Micro-Jest** is a tiny JavaScript testing framework for [Kaluma](https://kalumajs.org/). It is distilled version of the original [Jest](https://jestjs.io/) project.
